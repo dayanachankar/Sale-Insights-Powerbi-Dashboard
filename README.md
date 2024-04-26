@@ -1,11 +1,8 @@
-# Sale-Insights-Powerbi-Dashboard
+# Sale Insights Data Analysis Project
 ## Data Analysis Using SQL
-# 1.Show all customer records
-
+### 1.Show all customer records
 SELECT * FROM customers;
-
-Show total number of customers
-
+### 2.Show total number of customers
 SELECT count(*) FROM customers;
 
 Show transactions for Chennai market (market code for chennai is Mark001
